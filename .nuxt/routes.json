@@ -1,0 +1,30 @@
+[
+  {
+    "name": "expired",
+    "path": "/expired",
+    "component": "/home/giri_11/Desktop/nta_clone/pages/expired.vue",
+    "chunkName": "pages/expired",
+    "_name": "_0a9006ee"
+  },
+  {
+    "name": "quiz",
+    "path": "/quiz",
+    "component": "/home/giri_11/Desktop/nta_clone/pages/quiz.vue",
+    "chunkName": "pages/quiz",
+    "_name": "_5dec6ebe"
+  },
+  {
+    "name": "submitted",
+    "path": "/submitted",
+    "component": "/home/giri_11/Desktop/nta_clone/pages/submitted.vue",
+    "chunkName": "pages/submitted",
+    "_name": "_584ec05f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/giri_11/Desktop/nta_clone/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a2fe7a94"
+  }
+]

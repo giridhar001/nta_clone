@@ -1,0 +1,35 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "CandidateDetails": {
+    "description": "Auto imported from components/candidateDetails/candidateDetails.vue"
+  },
+  "InfoSection": {
+    "description": "Auto imported from components/infoSection/infoSection.vue"
+  },
+  "InfoSectionQuestionGallery": {
+    "description": "Auto imported from components/infoSection/questionGallery.vue"
+  },
+  "InfoSectionTestMbd": {
+    "description": "Auto imported from components/infoSection/testMbd.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/navBar/navBar.vue"
+  },
+  "NavBarTimer": {
+    "description": "Auto imported from components/navBar/timer.vue"
+  },
+  "QuestionsOptions": {
+    "description": "Auto imported from components/questions/options.vue"
+  },
+  "Questions": {
+    "description": "Auto imported from components/questions/questions.vue"
+  },
+  "ResultTable": {
+    "description": "Auto imported from components/resultPage/resultTable.vue"
+  }
+}
